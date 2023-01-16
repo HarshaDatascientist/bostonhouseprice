@@ -15,8 +15,23 @@ create a new environment
 conda create -p venv python==3.9 -y 
 '''
 
-
+<!-- 
 git config --global user.name "HarshaDatascientist"
 
-git config --global user.email "datasciencepune12@gmail.com"
+git config --global user.email "datasciencepune12@gmail.com" -->
 
+
+<!-- To add any file 
+git add requirements.txt
+
+ -->
+<!-- To add all file
+git add . -->
+
+<!-- git commit -m "message"
+git status 
+
+if first time it will ask for who the user is?
+git config --global user.name -->
+
+<!-- git push origin main -->
